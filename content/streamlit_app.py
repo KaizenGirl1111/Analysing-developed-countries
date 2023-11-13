@@ -6,7 +6,7 @@ import pandas_profiling
 import plotly.express as px
 import pycountry_convert as pc
 import streamlit as st
-
+import matplotlib.pyplot as plt
 #warnings
 import warnings
 warnings.filterwarnings('ignore')
