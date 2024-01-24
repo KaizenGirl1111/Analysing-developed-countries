@@ -28,7 +28,7 @@ We have extracted data on child mortality, imports, GDP etc., from 167 countries
 ## Run Jupyter Notebook
 
 1. Open a terminal and navigate to the project directory.
-
+streamlit link - https://ml-project-igdtuw.streamlit.app/
 2. Launch Jupyter Notebook:
 
     ```bash
