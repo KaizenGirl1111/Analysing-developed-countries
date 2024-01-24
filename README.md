@@ -3,7 +3,7 @@
 I have extracted data on child mortality, imports, GDP etc., from 167 countries in the world. We have then applied unsupervised learning algorithms like DBSCAN, and Mini Batch K-means to cluster the countries with similar developmental curve and analysed each models performance on measures like Silhoutte Coefficient. 
 
 <img width="693" alt="image" src="https://github.com/KaizenGirl1111/ML_project/assets/73153808/19e63896-a41e-4f0a-9e6e-af8e542a269e">
-
+colab file - https://colab.research.google.com/drive/1ViEjds24MpzjfVy-33DUjvEIZp2q0ey5?usp=sharing
 
 ## Prerequisites
 
